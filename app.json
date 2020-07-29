@@ -1,0 +1,35 @@
+{
+  "pages": [
+    
+    "pages/function/function",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/main/main",
+   
+    "pages/about/about"
+  ],
+  "tabBar":{
+    "list":[
+      {
+        "text":"主页",
+        "pagePath":"pages/main/main",
+        "iconPath":"images/main0.png",
+        "selectedIconPath":"images/main1.png"
+      },
+      {
+        "text":"功能",
+        "pagePath":"pages/function/function",
+        "iconPath":"images/function0.png",
+        "selectedIconPath":"images/function1.png"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "水稻渠成",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

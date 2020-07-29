@@ -1,0 +1,6 @@
+<view class='container'>
+  <image class="about-banner" src="/images/about.jpg"></image>
+  <text style="font-weight:bold; font-size:60rpx">水稻渠成</text>
+  <text>本小程序将人工智能技术应用于水稻啊病虫害的诊断以及防治，为农户赋能</text>
+  <text>联系我们：2590238508@qq.com</text>
+</view>
